@@ -11348,6 +11348,7 @@ p {
     -webkit-flex-direction: column;
         -ms-flex-direction: column;
             flex-direction: column;
+      margin-left: 15px;
   }
   .pricing-card {
     border-radius: 0 !important;
