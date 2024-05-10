@@ -12182,11 +12182,10 @@ pre .code {
   width: 60%;
   margin-bottom: 15px;
   border-radius: 10px;
-  opacity: .7;
-  transition: 2s;
+  transition: 3s;
 }
 .about-img:hover{
-  opacity: 1;
+  opacity: .7;
 }
 
 .about-caption {
